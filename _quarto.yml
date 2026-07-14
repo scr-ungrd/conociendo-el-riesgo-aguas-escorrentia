@@ -1,0 +1,21 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Documentación Convertida"
+  chapters:
+    - index.qmd
+    - 01-presentacion.qmd
+    - 02-aguas-de-escorrentia.qmd
+    - 03-riesgos-asociados-y-consecuencias.qmd
+    - 04-factores-que-agravan-el-problema.qmd
+    - 05-medidas-de-mitigacion-y-buenas-practicas.qmd
+    - 06-referencias-bibliograficas.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    number-sections: false
+    html-math-method: mathjax
