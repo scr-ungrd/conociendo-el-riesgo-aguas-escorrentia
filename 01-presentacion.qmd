@@ -1,0 +1,25 @@
+# Presentación {.unnumbered}
+
+El agua es un elemento esencial para los ecosistemas naturales, su movimiento continuo en sus tres estados, líquido, vapor y sólido, se denomina ciclo del agua. El 70% de la superficie del mundo está cubierta de agua, solamente el 2,5% del agua disponible es agua dulce, mientras que el 97,5% restante es agua salada. Aproximadamente el 70% del agua dulce está congelada en los glaciares y, el 30% restante se presenta como humedad en el suelo o yace en capas acuíferas subterráneas de difícil acceso. Menos del 1% de los recursos de agua dulce del mundo está disponible para el consumo humano y proviene principalmente de ríos y lagos (Cumbre de Johannesburgo, 2002).
+
+El ciclo del agua es un proceso global interminable de circulación del agua de las nubes a la tierra, al océano y de vuelta a las nubes. Está dividido en 6 etapas: evaporación, transpiración, condensación, precipitación, escorrentía superficial y aguas freáticas (Carolina Vera & Inés Camilloni, 2023).
+
+De acuerdo con: las etapas del ciclo del agua, su importancia e influencia en el medio ambiente. Se desarrolla esta cartilla denominada “Cartilla para la gestión del riesgo por aguas de escorrentía”. En donde se hace énfasis en la escorrentía superficial.
+
+Este documento surge a raíz de las necesidades evidenciadas en el territorio colombiano. En donde debido a los efectos de los fenómenos de variabilidad climática (como el fenómeno de la niña), en ocasiones por la falta de conocimiento y preparación para el manejo de aguas escorrentía, se generan emergencias y desastres en las comunidades.
+
+En este documento se encontrarán las bases teóricas y prácticas para realizar un tratamiento adecuado de las aguas de escorrentía en las zonas rurales y urbanas. 
+
+Adicional a lo anterior, se presentan los medios de vida que se pueden ver afectados por este fenómeno. Asimismo, se presenta la terminología básica de la gestión del riesgo, y se analizan los posibles escenarios de riesgo asociados a las aguas de escorrentía. 
+
+Desde la Unidad Nacional de Gestión del Riesgo se espera que esta sea una herramienta de utilidad para las personas que se encuentran en exposición o vulnerabilidad ante eventos de inundación, movimientos en masa y avenidas torrenciales; ocasionadas por las aguas de escorrentía.
+
+## 1.1 Propósito de la cartilla {.unnumbered}
+
+Proporcionar a la población rural y urbana, herramientas prácticas, efectivas y conocimientos sobre el manejo adecuado de aguas de escorrentía, con el fin de promover el conocimiento y la reducción del riesgo por aguas de escorrentía, la conservación del agua y la protección del medio ambiente. Mediante la elaboración de material educativo dirigido a la población rural y urbana, así como a los tomadores de decisión, sobre las prácticas adecuadas para la gestión de aguas de escorrentía, incluyendo técnicas de captación, almacenamiento, y utilización eficiente del agua, adaptadas a las necesidades y contextos específicos de las comunidades.
+
+## 1.2 Publico objetivo
+ {.unnumbered}
+
+Comunidad en general, líderes comunitarios y autoridades locales
+
