@@ -1,6 +1,70 @@
-# Preliminares {.unnumbered}
+# Inicio {.unnumbered}
 
-**Lista de figuras**
+![](media/CUB_AGUAS%20ESCORRENTIA-1.png){.ungrd-cover-float}
 
-**Lista de tablas**
+Bienvenidos al libro digital **Conociendo el riesgo por aguas de escorrentía**. Este recurso ha sido diseñado por la Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD) como una guía conceptual y práctica orientada a proporcionar a la población rural y urbana, líderes comunitarios y tomadores de decisiones, herramientas clave y conocimientos sobre el manejo adecuado de las aguas de escorrentía superficial.
 
+A través de esta plataforma interactiva, podrá comprender qué es la escorrentía, identificar los riesgos asociados como inundaciones, movimientos en masa y avenidas torrenciales, analizar los factores que agravan estas problemáticas en contextos urbanos y rurales, y explorar las principales medidas de mitigación y buenas prácticas de prevención, incluyendo Sistemas Urbanos de Drenaje Sostenible (SUDS) e infraestructura resiliente para la gestión del riesgo.
+
+::: {.clearfix}
+:::
+
+::: {.d-flex .justify-content-start .mb-3}
+[← Ver colección completa de la serie](https://scr-ungrd.github.io/investigaciones-grd-colombia/){.ungrd-btn}
+:::
+
+------------------------------------------------------------------------
+
+::::: {.ungrd-cards-grid}
+
+::: {.ungrd-card}
+::: {.ungrd-card-header}
+[Capítulo 2: Aguas de escorrentía](02-aguas-de-escorrentia.html)
+:::
+::: {.ungrd-card-body}
+![](media/02-aguas-de-escorrentia/img_a091f784.png){class="ungrd-card-img"}
+
+Conceptos fundamentales del ciclo del agua, definición de escorrentía superficial y su clasificación, junto con las ventajas y desventajas de este fenómeno en el territorio.
+:::
+:::
+
+::: {.ungrd-card}
+::: {.ungrd-card-header}
+[Capítulo 3: Riesgos asociados y consecuencias](03-riesgos-asociados-y-consecuencias.html)
+:::
+::: {.ungrd-card-body}
+![](media/03-riesgos-asociados-y-consecuencias/img_72103f99.png){class="ungrd-card-img"}
+
+Consecuencias y fenómenos naturales asociados al mal manejo de las aguas de escorrentía superficial, incluyendo movimientos en masa, inundaciones y avenidas torrenciales, y sus elementos expuestos.
+:::
+:::
+
+::: {.ungrd-card}
+::: {.ungrd-card-header}
+[Capítulo 4: Factores que agravan el problema](04-factores-que-agravan-el-problema.html)
+:::
+::: {.ungrd-card-body}
+![](media/04-factores-que-agravan-el-problema/img_3df8e3dc.png){class="ungrd-card-img"}
+
+Análisis del impacto de las intervenciones humanas y antrópicas sin control, la deforestación, la urbanización informal, la infraestructura deficiente y los efectos de la variabilidad climática.
+:::
+:::
+
+::: {.ungrd-card}
+::: {.ungrd-card-header}
+[Capítulo 5: Medidas de mitigación y buenas prácticas](05-medidas-de-mitigacion-y-buenas-practicas.html)
+:::
+::: {.ungrd-card-body}
+![](media/05-medidas-de-mitigacion-y-buenas-practicas/img_98b3a0e9.png){class="ungrd-card-img"}
+
+Estrategias y buenas prácticas dirigidas a las comunidades y autoridades locales, con énfasis en planificación territorial, Sistemas Urbanos de Drenaje Sostenible (SUDS) y sistemas de alerta temprana.
+:::
+:::
+
+:::::
+
+------------------------------------------------------------------------
+
+## Navegación
+
+Utiliza la navegación lateral o las tarjetas superiores para explorar los diferentes capítulos y anexos del libro.
