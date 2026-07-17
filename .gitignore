@@ -10,3 +10,5 @@ data/
 # Archivos y carpetas generadas automáticamente por Quarto
 _book/
 .quarto/
+
+/.quarto/
