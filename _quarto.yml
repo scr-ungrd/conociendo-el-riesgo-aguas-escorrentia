@@ -3,7 +3,16 @@ project:
   output-dir: _book
 
 book:
-  title: "Documentación Convertida"
+  title: "Conociendo el riesgo por aguas de escorrentía"
+  date: "2025-12-03"
+  
+  repo-url: https://github.com/scr-ungrd/conociendo-el-riesgo-aguas-escorrentia
+  repo-actions: [source, issue]
+  downloads: [pdf]
+  site-url: https://scr-ungrd.github.io/conociendo-el-riesgo-aguas-escorrentia
+  sidebar:
+    style: floating
+    collapse-level: 1
   chapters:
     - index.qmd
     - 01-presentacion.qmd
@@ -13,9 +22,33 @@ book:
     - 05-medidas-de-mitigacion-y-buenas-practicas.qmd
     - 06-referencias-bibliograficas.qmd
 
+lang: es
+
+csl: vancouver-apa-hybrid.csl
+link-citations: true
+
+crossref:
+  fig-prefix: "Figura"
+  tbl-prefix: "Tabla"
+  chapters: true
+
 format:
   html:
     theme: cosmo
     toc: true
     number-sections: false
-    html-math-method: mathjax
+    reference-location: block
+    logo: "media/CUB_AGUAS ESCORRENTIA-1.png"
+    css:
+      - custom.css
+    include-in-header:
+      - caption-bold.html
+      - text: |
+          <meta name="citation_book_title" content="Conociendo el riesgo por aguas de escorrentía">
+          <meta name="citation_publisher" content="Unidad Nacional para la Gestión del Riesgo de Desastres - UNGRD">
+          <meta name="citation_publication_date" content="2026/02/03">
+          <meta name="citation_online_date" content="2026/02/03">
+          <meta name="citation_language" content="es">
+          <meta name="citation_pdf_url" content="https://scr-ungrd.github.io/conociendo-el-riesgo-aguas-escorrentia/Conociendo_el_riesgo_por_aguas_de_escorrentia.pdf">
+          <meta name="robots" content="index, follow">
+    html-math-method: katex
