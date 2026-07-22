@@ -30,9 +30,9 @@ Promover la infiltración del agua en el suelo mediante superficies permeables, 
 
 El mantenimiento y recuperación de áreas verdes es una estrategia fundamental para reducir la velocidad y cantidad del agua de escorrentía, minimizando su impacto sobre el suelo y la infraestructura. Algunas acciones que se pueden realizar son:
 
-Instalación de vegetación adecuada en las zonas erosionables y sus alrededores, lo que ayuda a disminuir la cantidad de agua de escorrentía y su energía (Román y González, 2014).
+Instalación de vegetación adecuada en las zonas erosionables y sus alrededores, lo que ayuda a disminuir la cantidad de agua de escorrentía y su energía [@roman2014].
 
-Control de erosión mediante la siembra de vegetación en pendientes pronunciadas, la construcción de zanjas en laderas y la instalación de barreras de contención o barreras vegetativas. Estas medidas estabilizan el suelo y reducen la erosión causada por el flujo descontrolado de agua (González, 2009; Salazar y Gómez, 2010).
+Control de erosión mediante la siembra de vegetación en pendientes pronunciadas, la construcción de zanjas en laderas y la instalación de barreras de contención o barreras vegetativas. Estas medidas estabilizan el suelo y reducen la erosión causada por el flujo descontrolado de agua [@gonzalez2009; @salazar2010].
 
 Reforestación (@fig-reforestacion) y construcción de cercas vivas para evitar la pérdida de cobertura vegetal y fortalecer la capacidad natural del suelo para absorber el agua.
 
@@ -100,9 +100,9 @@ Construir y mantener canales, alcantarillados y obras de control de aguas lluvia
 
 Diseñar canales multifuncionales, que no solo transporten el agua, sino que también permitan su retención y, cuando sea posible, favorezcan la infiltración.
 
-Instalar cubiertas verdes en edificaciones (@fig-techos-verdes), promoviendo la retención y absorción de agua de lluvia, además de contribuir a la regulación térmica y la mejora ambiental en entornos urbanos (Lovado, 2013).
+Instalar cubiertas verdes en edificaciones (@fig-techos-verdes), promoviendo la retención y absorción de agua de lluvia, además de contribuir a la regulación térmica y la mejora ambiental en entornos urbanos [@lovado2013].
 
-Implementar planes de mantenimiento y dragado (@fig-dragado-canales), evitando el taponamiento y la obstrucción de canales y sistemas de drenaje (González, 2009; Lovado, 2013).
+Implementar planes de mantenimiento y dragado (@fig-dragado-canales), evitando el taponamiento y la obstrucción de canales y sistemas de drenaje [@gonzalez2009; @lovado2013].
 
 
 
@@ -114,15 +114,15 @@ En cuanto al fomento de la infiltración y absorción del suelo. Para reducir la
 
 Construir zanjas de infiltración y pavimentos permeables, permitiendo que el agua de lluvia se absorba naturalmente en el suelo.
 
-Conservar y ampliar áreas verdes como parques y jardines, que favorecen la retención y filtración del agua (González, 2009; Salazar y Gómez, 2010).
+Conservar y ampliar áreas verdes como parques y jardines, que favorecen la retención y filtración del agua [@gonzalez2009; @salazar2010].
 
-Una alternativa eficiente de infraestructura son los sistemas Urbanos de Drenaje Sostenible (SUDS) (@fig-suds). La implementación de Sistemas Urbanos de Drenaje Sostenible (SUDS) es una estrategia innovadora que permite controlar la cantidad y calidad de la escorrentía mediante procesos de sedimentación, filtración, biodegradación y absorción por plantas (Chen et al., 2021). Estos sistemas buscan:
+Una alternativa eficiente de infraestructura son los sistemas Urbanos de Drenaje Sostenible (SUDS) (@fig-suds). La implementación de Sistemas Urbanos de Drenaje Sostenible (SUDS) es una estrategia innovadora que permite controlar la cantidad y calidad de la escorrentía mediante procesos de sedimentación, filtración, biodegradación y absorción por plantas [@chen2021]. Estos sistemas buscan:
 
 Reducir el volumen del agua vertida a los sistemas de drenaje tradicionales.
 
 Mejorar la calidad del agua que llega a los cuerpos naturales.
 
-Integrar la gestión del agua de lluvia con la protección del medioambiente (Valdivielso, 2017).
+Integrar la gestión del agua de lluvia con la protección del medioambiente [@valdivielso2017].
 
 Algunos ejemplos de SUDS incluyen:
 
@@ -134,7 +134,7 @@ Humedales y estanques de detención multifuncionales, que retienen y depuran el 
 
 Pavimentos permeables y techos verdes, que reducen el escurrimiento y mejoran la eficiencia del drenaje urbano.
 
-Muros verdes y alcorques inundables, que contribuyen a la captación y aprovechamiento del agua pluvial (Ministerio de Vivienda, Ciudad y Territorio, 2022).
+Muros verdes y alcorques inundables, que contribuyen a la captación y aprovechamiento del agua pluvial [@minvivienda2022].
 
 El desarrollo de infraestructura de drenaje resiliente y sostenible es clave para reducir el impacto de las lluvias intensas y mejorar la adaptación al cambio climático en las ciudades.
 
