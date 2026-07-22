@@ -34,13 +34,11 @@ Instalación de vegetación adecuada en las zonas erosionables y sus alrededores
 
 Control de erosión mediante la siembra de vegetación en pendientes pronunciadas, la construcción de zanjas en laderas y la instalación de barreras de contención o barreras vegetativas. Estas medidas estabilizan el suelo y reducen la erosión causada por el flujo descontrolado de agua (González, 2009; Salazar y Gómez, 2010).
 
-Reforestación (figura 6) y construcción de cercas vivas para evitar la pérdida de cobertura vegetal y fortalecer la capacidad natural del suelo para absorber el agua.
+Reforestación (@fig-reforestacion) y construcción de cercas vivas para evitar la pérdida de cobertura vegetal y fortalecer la capacidad natural del suelo para absorber el agua.
 
 
 
-![](media/05-medidas-de-mitigacion-y-buenas-practicas/img_2b2d4c95.jpeg)
-
-**Figura ****6****.** Reforestación de bosques y humedales. Fuente: tomado de Politécnico Grancolombiano, 2024
+![Reforestación de bosques y humedales. Fuente: tomado de Politécnico Grancolombiano, 2024](media/05-medidas-de-mitigacion-y-buenas-practicas/img_2b2d4c95.jpeg){#fig-reforestacion}
 
 **Cuidado de cuerpos de agua:** 
 
@@ -54,7 +52,7 @@ Promover la restauración ecológica mediante la reforestación y conservación 
 
 **Mitigación de riesgos agroclimáticos:** 
 
-Las buenas prácticas agrícolas son esenciales para reducir los riesgos agroclimáticos en los cultivos (figura 7), ya que permiten un mejor aprovechamiento de las condiciones del suelo y minimizan la pérdida de cobertura vegetal. Estas medidas son fáciles de interpretar e implementar y ayudan a mitigar el impacto de las lluvias intensas y prolongadas.
+Las buenas prácticas agrícolas son esenciales para reducir los riesgos agroclimáticos en los cultivos (@fig-manejo-suelos-cafeteras), ya que permiten un mejor aprovechamiento de las condiciones del suelo y minimizan la pérdida de cobertura vegetal. Estas medidas son fáciles de interpretar e implementar y ayudan a mitigar el impacto de las lluvias intensas y prolongadas.
 
 La planificación agrícola es clave para evitar la degradación del suelo y optimizar los recursos disponibles. Para ello, es fundamental evaluar las condiciones climáticas locales y considerar estrategias que equilibren la producción con la sostenibilidad ambiental. Las medidas de mitigación se pueden resumir en la siguiente ecuación:
 
@@ -74,9 +72,7 @@ Realizar siembras perpendiculares a la pendiente del terreno, adaptándose al ti
 
 
 
-![](media/05-medidas-de-mitigacion-y-buenas-practicas/img_055fa195.png)
-
-**Figura ****7****.** Manejo de suelos y aguas para la prevención y mitigación de deslizamientos en fincas cafeteras. Fuente: tomado y modificado de Federación Nacional de Cafeteros (2010)
+![Manejo de suelos y aguas para la prevención y mitigación de deslizamientos en fincas cafeteras. Fuente: tomado y modificado de Federación Nacional de Cafeteros (2010)](media/05-medidas-de-mitigacion-y-buenas-practicas/img_055fa195.png){#fig-manejo-suelos-cafeteras}
 
 ## 5.2 Acciones para autoridades locales {.unnumbered}
 
@@ -104,21 +100,15 @@ Construir y mantener canales, alcantarillados y obras de control de aguas lluvia
 
 Diseñar canales multifuncionales, que no solo transporten el agua, sino que también permitan su retención y, cuando sea posible, favorezcan la infiltración.
 
-Instalar cubiertas verdes en edificaciones (figura 8), promoviendo la retención y absorción de agua de lluvia, además de contribuir a la regulación térmica y la mejora ambiental en entornos urbanos (Lovado, 2013).
+Instalar cubiertas verdes en edificaciones (@fig-techos-verdes), promoviendo la retención y absorción de agua de lluvia, además de contribuir a la regulación térmica y la mejora ambiental en entornos urbanos (Lovado, 2013).
 
-Implementar planes de mantenimiento y dragado (figura 9), evitando el taponamiento y la obstrucción de canales y sistemas de drenaje (González, 2009; Lovado, 2013).
-
-
-
-![](media/05-medidas-de-mitigacion-y-buenas-practicas/img_fdd02634.png)
-
-**Figura ****8****.** Ejemplo de techos verdes. Fuente: tomado y modificado de NASA (2014)
+Implementar planes de mantenimiento y dragado (@fig-dragado-canales), evitando el taponamiento y la obstrucción de canales y sistemas de drenaje (González, 2009; Lovado, 2013).
 
 
 
-![](media/05-medidas-de-mitigacion-y-buenas-practicas/img_8725454b.png)
+![Ejemplo de techos verdes. Fuente: tomado y modificado de NASA (2014)](media/05-medidas-de-mitigacion-y-buenas-practicas/img_fdd02634.png){#fig-techos-verdes}
 
-**Figura ****9****.** Limpieza y dragado de canales urbanos. Fuente: tomado y modificado de Torres (2019)
+![Limpieza y dragado de canales urbanos. Fuente: tomado y modificado de Torres (2019)](media/05-medidas-de-mitigacion-y-buenas-practicas/img_8725454b.png){#fig-dragado-canales}
 
 En cuanto al fomento de la infiltración y absorción del suelo. Para reducir la escorrentía superficial y mejorar la recarga de acuíferos, se recomienda:
 
@@ -126,7 +116,7 @@ Construir zanjas de infiltración y pavimentos permeables, permitiendo que el ag
 
 Conservar y ampliar áreas verdes como parques y jardines, que favorecen la retención y filtración del agua (González, 2009; Salazar y Gómez, 2010).
 
-Una alternativa eficiente de infraestructura son los sistemas Urbanos de Drenaje Sostenible (SUDS) (figura 10). La implementación de Sistemas Urbanos de Drenaje Sostenible (SUDS) es una estrategia innovadora que permite controlar la cantidad y calidad de la escorrentía mediante procesos de sedimentación, filtración, biodegradación y absorción por plantas (Chen et al., 2021). Estos sistemas buscan:
+Una alternativa eficiente de infraestructura son los sistemas Urbanos de Drenaje Sostenible (SUDS) (@fig-suds). La implementación de Sistemas Urbanos de Drenaje Sostenible (SUDS) es una estrategia innovadora que permite controlar la cantidad y calidad de la escorrentía mediante procesos de sedimentación, filtración, biodegradación y absorción por plantas (Chen et al., 2021). Estos sistemas buscan:
 
 Reducir el volumen del agua vertida a los sistemas de drenaje tradicionales.
 
@@ -150,11 +140,7 @@ El desarrollo de infraestructura de drenaje resiliente y sostenible es clave par
 
 
 
-![](media/05-medidas-de-mitigacion-y-buenas-practicas/img_98b3a0e9.png)
-
-**Figura ****10****.** Ejemplos de sistemas urbanos de drenaje sostenible. Fuente: tomado de IMPLAN Hermosillo (2017)
-
-a) Jardín microcuencas; b) Pozo de infiltración con muros de mampostería; c) Pavimentos impermeables; d) Drenaje Francés 
+![Ejemplos de sistemas urbanos de drenaje sostenible. Fuente: tomado de IMPLAN Hermosillo (2017). a) Jardín microcuencas; b) Pozo de infiltración con muros de mampostería; c) Pavimentos impermeables; d) Drenaje Francés](media/05-medidas-de-mitigacion-y-buenas-practicas/img_98b3a0e9.png){#fig-suds}
 
 **• Educación y participación comunitaria:** 
 
@@ -162,7 +148,7 @@ La sensibilización y capacitación de la comunidad son esenciales para la gesti
 
 Capacitar a líderes locales, brindándoles herramientas para que promuevan buenas prácticas en sus comunidades y fortalezcan la resiliencia frente a eventos climáticos extremos.
 
-Realizar campañas de sensibilización (figura 11) dirigidas a la población en general sobre la importancia del manejo adecuado de residuos y el impacto negativo de su mala disposición en el sistema de drenaje urbano.
+Realizar campañas de sensibilización (@fig-campana-educativa) dirigidas a la población en general sobre la importancia del manejo adecuado de residuos y el impacto negativo de su mala disposición en el sistema de drenaje urbano.
 
 Fomentar planes comunitarios de reciclaje, promoviendo la reducción de desechos y la reutilización de materiales, lo que contribuye a disminuir la acumulación de residuos en alcantarillas y drenajes.
 
@@ -172,9 +158,7 @@ El compromiso activo de la comunidad, junto con el apoyo de las autoridades loca
 
 
 
-![](media/05-medidas-de-mitigacion-y-buenas-practicas/img_aac00ef4.png)
-
-**Figura ****11****.** Campaña educativa sobre reciclaje y gestión de residuos sólidos. Fuente: tomado de Didactalia (2011)
+![Campaña educativa sobre reciclaje y gestión de residuos sólidos. Fuente: tomado de Didactalia (2011)](media/05-medidas-de-mitigacion-y-buenas-practicas/img_aac00ef4.png){#fig-campana-educativa}
 
 **• Normativa y fiscalización:** 
 
@@ -182,7 +166,7 @@ El cumplimiento y aplicación de la normativa ambiental y urbanística es fundam
 
 Hacer cumplir las reglamentaciones vigentes a través de las oficinas de planeación, medio ambiente e infraestructura, garantizando el uso adecuado del territorio.
 
-Proteger las fuentes hídricas, manteniendo franjas de vegetación densa en sus riberas (figura 12) para reducir la erosión y mejorar la infiltración del agua.
+Proteger las fuentes hídricas, manteniendo franjas de vegetación densa en sus riberas (@fig-proteccion-rio-bogota) para reducir la erosión y mejorar la infiltración del agua.
 
 Respetar y delimitar las rondas hídricas, de acuerdo con lo establecido por la Corporación Autónoma Regional y el Decreto 2245 de 2017. En caso de no contar con una delimitación oficial, se debe gestionar su definición.
 
@@ -192,9 +176,7 @@ Integrar estos escenarios en los planes y estrategias municipales, como el Plan 
 
 
 
-![](media/05-medidas-de-mitigacion-y-buenas-practicas/img_7acd6dd6.jpeg)
-
-Figura 12. Franja de protección en el río Bogotá. Fuente: tomado de Extrategia Medios (2019)
+![Franja de protección en el río Bogotá. Fuente: tomado de Extrategia Medios (2019)](media/05-medidas-de-mitigacion-y-buenas-practicas/img_7acd6dd6.jpeg){#fig-proteccion-rio-bogota}
 
 **• Sistemas de alerta temprana:** 
 
@@ -206,11 +188,9 @@ Es deber de las entidades territoriales la inclusión de los escenarios de riesg
 
 **• Coordinación interinstitucional:**
 
-Para lograr una efectiva gestión del riesgo desde lo local, se debe contar con un trabajo conjunto entre entidades, que cuente con el apoyo de las autoridades departamentales y las Corporaciones Autónomas Regionales, que hacen parte del Sistema Nacional de Gestión del Riesgo de Desastres – SNGRD (figura 13) y responden por los procesos de la gestión del riesgo en su jurisdicción.
+Para lograr una efectiva gestión del riesgo desde lo local, se debe contar con un trabajo conjunto entre entidades, que cuente con el apoyo de las autoridades departamentales y las Corporaciones Autónomas Regionales, que hacen parte del Sistema Nacional de Gestión del Riesgo de Desastres – SNGRD (@fig-sngrd) y responden por los procesos de la gestión del riesgo en su jurisdicción.
 
 
 
-![](media/05-medidas-de-mitigacion-y-buenas-practicas/img_7b4547ca.jpeg)
-
-**Figura ****13****.** Sistema Nacional de Gestión del Riesgo de Desastres
+![Sistema Nacional de Gestión del Riesgo de Desastres](media/05-medidas-de-mitigacion-y-buenas-practicas/img_7b4547ca.jpeg){#fig-sngrd}
 

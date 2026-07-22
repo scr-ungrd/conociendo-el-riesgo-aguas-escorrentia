@@ -4,15 +4,13 @@ Las actividades humanas afectan las características de la superficie terrestre 
 
 • **Cambio de uso del suelo**** y el paisaje****:** 
 
-La deforestación y la urbanización en zonas de riesgo afectan significativamente la gestión del agua y aumentan el impacto de la escorrentía. La reducción de la cobertura vegetal deja el suelo expuesto a la lluvia, el viento y la radiación solar, favoreciendo su erosión y disminuyendo su capacidad de absorción (figura 5) (Reynolds y Stafford, 2002).
+La deforestación y la urbanización en zonas de riesgo afectan significativamente la gestión del agua y aumentan el impacto de la escorrentía. La reducción de la cobertura vegetal deja el suelo expuesto a la lluvia, el viento y la radiación solar, favoreciendo su erosión y disminuyendo su capacidad de absorción (@fig-comportamiento-agua-lluvia) (Reynolds y Stafford, 2002).
 
 La pérdida de áreas verdes y la creciente expansión urbana alteran el ciclo natural del agua, transformando las ciudades y territorios en zonas semidesérticas. Esto impide la recarga de acuíferos, esenciales para el abastecimiento de agua potable, y contribuye al efecto isla de calor, elevando las temperaturas en el interior de las ciudades, especialmente en verano (Castañeda et al., 2023). Estos cambios generan impactos negativos a nivel ambiental, económico y social, afectando la calidad de vida y el bienestar de la población. El crecimiento urbano sin planificación, la perdida de zonas de amortiguación natural en las ciudades y la construcción en zonas prohibidas, ocasiona un aumento en la probabilidad de la ocurrencia de fenómenos naturales relacionados con las aguas de escorrentía.
 
 
 
-![](media/04-factores-que-agravan-el-problema/img_3df8e3dc.png)
-
-**Figura ****5****.** Comportamiento del agua de lluvia en dos contextos: natural y urbano. Fuente: tomado de IMPLAN Hermosillo (2017)
+![Comportamiento del agua de lluvia en dos contextos: natural y urbano. Fuente: tomado de IMPLAN Hermosillo (2017)](media/04-factores-que-agravan-el-problema/img_3df8e3dc.png){#fig-comportamiento-agua-lluvia}
 
 • **Infraestructura deficiente:** 
 
