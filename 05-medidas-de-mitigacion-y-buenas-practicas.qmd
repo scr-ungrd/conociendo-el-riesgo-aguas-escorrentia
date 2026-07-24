@@ -1,10 +1,10 @@
-# Medidas de mitigación y buenas prácticas {.unnumbered}
+# Medidas de mitigación y buenas prácticas
 
 Existen diversas maneras de prevenir el riesgo por fenómenos asociados a las aguas de escorrentía, estas incluyen acciones que pueden ser realizadas por la comunidad y acciones que pueden realizar las autoridades locales. A continuación, se enuncian algunas acciones y buenas prácticas que podrían mitigar este riesgo:
 
-## 5.1 Acciones para la comunidad {.unnumbered}
+## 5.1 Acciones para la comunidad
 
-**Manejo de residuos sólidos:** 
+### 5.1.1 Manejo de residuos sólidos
 
 Un adecuado manejo de los residuos sólidos es clave para prevenir taponamientos en alcantarillas, desagües, sumideros y canales, permitiendo así un flujo eficiente del agua de escorrentía y reduciendo el riesgo de inundaciones. Para evitar obstrucciones y acumulación de desechos, se recomienda:
 
@@ -16,7 +16,7 @@ Promover la separación de residuos en origen y una adecuada disposición final,
 
 Participar en las campañas de sensibilización propuestas por las autoridades sobre la importancia de no arrojar basura en calles, ríos y alcantarillas.
 
-**Aprovechamiento y manejo de aguas lluvias en viviendas:**
+### 5.1.2 Aprovechamiento y manejo de aguas lluvias en viviendas
 
 El manejo adecuado del agua de lluvia en los hogares ayuda a reducir el impacto de la escorrentía, previniendo inundaciones y permitiendo un mejor uso de este recurso. Para ello, se recomienda:
 
@@ -26,7 +26,7 @@ Implementar sistemas de captación de aguas lluvias, como tanques de almacenamie
 
 Promover la infiltración del agua en el suelo mediante superficies permeables, jardines de lluvia o pozos de absorción, favoreciendo la absorción de agua en el suelo.
 
-**Reforestación y protección de zonas verdes: **
+### 5.1.3 Reforestación y protección de zonas verdes
 
 El mantenimiento y recuperación de áreas verdes es una estrategia fundamental para reducir la velocidad y cantidad del agua de escorrentía, minimizando su impacto sobre el suelo y la infraestructura. Algunas acciones que se pueden realizar son:
 
@@ -40,7 +40,7 @@ Reforestación (@fig-reforestacion) y construcción de cercas vivas para evitar 
 
 ![Reforestación de bosques y humedales. Fuente: tomado de Politécnico Grancolombiano, 2024](media/05-medidas-de-mitigacion-y-buenas-practicas/img_2b2d4c95.jpeg){#fig-reforestacion}
 
-**Cuidado de cuerpos de agua:** 
+### 5.1.4 Cuidado de cuerpos de agua
 
 La protección de ríos, quebradas, humedales y otros cuerpos de agua es fundamental para reducir el riesgo de desbordamientos, mejorar la calidad del agua y preservar los ecosistemas. Para ello, se recomienda:
 
@@ -50,7 +50,7 @@ Realizar limpiezas periódicas para evitar la acumulación de residuos sólidos 
 
 Promover la restauración ecológica mediante la reforestación y conservación de la vegetación ribereña, lo que ayuda a estabilizar el suelo y reducir la erosión.
 
-**Mitigación de riesgos agroclimáticos:** 
+### 5.1.5 Mitigación de riesgos agroclimáticos
 
 Las buenas prácticas agrícolas son esenciales para reducir los riesgos agroclimáticos en los cultivos (@fig-manejo-suelos-cafeteras), ya que permiten un mejor aprovechamiento de las condiciones del suelo y minimizan la pérdida de cobertura vegetal. Estas medidas son fáciles de interpretar e implementar y ayudan a mitigar el impacto de las lluvias intensas y prolongadas.
 
@@ -74,11 +74,11 @@ Realizar siembras perpendiculares a la pendiente del terreno, adaptándose al ti
 
 ![Manejo de suelos y aguas para la prevención y mitigación de deslizamientos en fincas cafeteras. Fuente: tomado y modificado de Federación Nacional de Cafeteros (2010)](media/05-medidas-de-mitigacion-y-buenas-practicas/img_055fa195.png){#fig-manejo-suelos-cafeteras}
 
-## 5.2 Acciones para autoridades locales {.unnumbered}
+## 5.2 Acciones para autoridades locales
 
 Para el manejo de aguas lluvia de escorrentía en zonas urbanas se recomienda a las autoridades territoriales la realización de las siguientes actividades:
 
-•** Planificación territorial:** 
+### 5.2.1 Planificación territorial
 
 Una adecuada planificación territorial es fundamental para reducir los riesgos asociados a la escorrentía y las inundaciones. Para ello, las autoridades locales deben:
 
@@ -92,7 +92,7 @@ Promover soluciones basadas en la naturaleza, como la conservación de humedales
 
 El fortalecimiento del ordenamiento territorial en torno al agua es clave para disminuir los escenarios de riesgo por inundación y garantizar un desarrollo urbano y rural más seguro y sostenible.
 
-• **Infraestructura de drenaje:** 
+### 5.2.2 Infraestructura de drenaje
 
 El diseño, construcción y mantenimiento de infraestructura de drenaje es esencial para la correcta gestión del agua de escorrentía y la reducción del riesgo de inundaciones. Para ello, las autoridades locales deben:
 
@@ -142,7 +142,7 @@ El desarrollo de infraestructura de drenaje resiliente y sostenible es clave par
 
 ![Ejemplos de sistemas urbanos de drenaje sostenible. Fuente: tomado de IMPLAN Hermosillo (2017). a) Jardín microcuencas; b) Pozo de infiltración con muros de mampostería; c) Pavimentos impermeables; d) Drenaje Francés](media/05-medidas-de-mitigacion-y-buenas-practicas/img_98b3a0e9.png){#fig-suds}
 
-**• Educación y participación comunitaria:** 
+### 5.2.3 Educación y participación comunitaria
 
 La sensibilización y capacitación de la comunidad son esenciales para la gestión del riesgo por aguas de escorrentía. Para ello, se recomienda:
 
@@ -160,7 +160,7 @@ El compromiso activo de la comunidad, junto con el apoyo de las autoridades loca
 
 ![Campaña educativa sobre reciclaje y gestión de residuos sólidos. Fuente: tomado de Didactalia (2011)](media/05-medidas-de-mitigacion-y-buenas-practicas/img_aac00ef4.png){#fig-campana-educativa}
 
-**• Normativa y fiscalización:** 
+### 5.2.4 Normativa y fiscalización
 
 El cumplimiento y aplicación de la normativa ambiental y urbanística es fundamental para la gestión del riesgo por aguas de escorrentía. Para ello, las autoridades locales deben:
 
@@ -178,15 +178,15 @@ Integrar estos escenarios en los planes y estrategias municipales, como el Plan 
 
 ![Franja de protección en el río Bogotá. Fuente: tomado de Extrategia Medios (2019)](media/05-medidas-de-mitigacion-y-buenas-practicas/img_7acd6dd6.jpeg){#fig-proteccion-rio-bogota}
 
-**• Sistemas de alerta temprana:** 
+### 5.2.5 Sistemas de alerta temprana
 
 En los puntos en donde se han detonado movimientos en masa, inundaciones y avenidas torrenciales, se recomienda la instalación de sistemas de alertas tempranas que incluyan el monitoreo de aguas lluvia y de los niveles de agua de los ríos.
 
-**• Planes de emergencia:** 
+### 5.2.6 Planes de emergencia
 
 Es deber de las entidades territoriales la inclusión de los escenarios de riesgo por aguas de escorrentía en los instrumentos de gestión del riesgo, tales como los Planes Municipales de Gestión del Riesgo y las Estrategias de Respuesta a Emergencias. Estos deben tenerse en cuenta para el establecimiento de rutas de evacuación y los protocolos de acción para lluvias intensas.
 
-**• Coordinación interinstitucional:**
+### 5.2.7 Coordinación interinstitucional
 
 Para lograr una efectiva gestión del riesgo desde lo local, se debe contar con un trabajo conjunto entre entidades, que cuente con el apoyo de las autoridades departamentales y las Corporaciones Autónomas Regionales, que hacen parte del Sistema Nacional de Gestión del Riesgo de Desastres – SNGRD (@fig-sngrd) y responden por los procesos de la gestión del riesgo en su jurisdicción.
 

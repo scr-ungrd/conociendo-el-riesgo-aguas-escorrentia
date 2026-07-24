@@ -15,11 +15,16 @@ book:
     collapse-level: 1
   chapters:
     - index.qmd
-    - 01-presentacion.qmd
-    - 02-aguas-de-escorrentia.qmd
-    - 03-riesgos-asociados-y-consecuencias.qmd
-    - 04-factores-que-agravan-el-problema.qmd
-    - 05-medidas-de-mitigacion-y-buenas-practicas.qmd
+    - text: "1. Presentación"
+      href: 01-presentacion.qmd
+    - text: "2. Aguas de escorrentía"
+      href: 02-aguas-de-escorrentia.qmd
+    - text: "3. Riesgos asociados y consecuencias"
+      href: 03-riesgos-asociados-y-consecuencias.qmd
+    - text: "4. Factores que agravan el problema"
+      href: 04-factores-que-agravan-el-problema.qmd
+    - text: "5. Medidas de mitigación y buenas prácticas"
+      href: 05-medidas-de-mitigacion-y-buenas-practicas.qmd
     - 06-referencias-bibliograficas.qmd
 
 lang: es

@@ -1,18 +1,24 @@
-# Riesgos asociados y consecuencias {.unnumbered}
+# Riesgos asociados y consecuencias
 
 Los fenómenos naturales generados por el mal manejo de las aguas de escorrentía superficial pueden ser (@fig-fenomenos-naturales):
 
-**Inundaciones:** Son aumentos de los niveles de agua producto de las lluvias intensas y variables, que incrementan los caudales en ríos y quebradas causando desbordamientos.
+### 3.1 Inundaciones
 
-**Movimientos en masa:** Un movimiento en masa es el proceso por el cual un volumen de material constituido por roca, suelo, tierras, detritos o escombros, se desplaza ladera abajo por acción de la gravedad
+Son aumentos de los niveles de agua producto de las lluvias intensas y variables, que incrementan los caudales en ríos y quebradas causando desbordamientos.
 
-**Avenidas torrenciales:** Las avenidas torrenciales son causadas por uno o varios factores, estos pueden ser precipitaciones intensas, sismos, enjambres de movimientos en masa, rotura de presas naturales o artificiales y grandes volúmenes de agua por deshielo
+### 3.2 Movimientos en masa
+
+Un movimiento en masa es el proceso por el cual un volumen de material constituido por roca, suelo, tierras, detritos o escombros, se desplaza ladera abajo por acción de la gravedad
+
+### 3.3 Avenidas torrenciales
+
+Las avenidas torrenciales son causadas por uno o varios factores, estos pueden ser precipitaciones intensas, sismos, enjambres de movimientos en masa, rotura de presas naturales o artificiales y grandes volúmenes de agua por deshielo
 
 
 
 ![Fenómenos naturales generados por el mal manejo de aguas escorrentía. a) Movimientos en masa. Fuente: Álvarez et al., (2022); b) Inundaciones. Fuente: tomado de EIRD (s.f.); c) Avenidas Torrenciales. Fuente: tomado de IDIGER (2023)](media/03-riesgos-asociados-y-consecuencias/img_72103f99.png){#fig-fenomenos-naturales}
 
-**¿Cuáles son los elementos expuestos frente a las inundaciones, movimientos en masa y avenidas torrenciales?**
+### 3.4 ¿Cuáles son los elementos expuestos frente a las inundaciones, movimientos en masa y avenidas torrenciales?
 
 Los múltiples elementos, factores, recursos, bienes y servicios que debido a su localización pueden ser afectados cuando se manifiesta una amenaza por inundación, movimientos en masa y avenidas torrenciales son: 
 

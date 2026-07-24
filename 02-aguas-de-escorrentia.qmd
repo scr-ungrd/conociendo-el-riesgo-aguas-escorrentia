@@ -1,4 +1,4 @@
-# Aguas de escorrentía {.unnumbered}
+# Aguas de escorrentía
 
 Para entender las aguas escorrentía, el primer paso es conocer el ciclo del agua: El agua en la Tierra, está en constante movimiento en los tres estados físicos, sólido, líquido y gaseoso. Esto se observa en los océanos, los ríos, las nubes y las lluvias, los cuales están sujetos a cambios frecuentes. Por ejemplo: el agua superficial se evapora, el agua presente en las nubes se precipita y la lluvia se infiltra en el suelo. Este proceso continuo y natural de circulación del agua, que comprende su desplazamiento desde las nubes hacia la tierra, los océanos y de vuelta a las nubes, se denomina ciclo del agua (@fig-ciclo-agua) (Carolina Vera & Inés Camilloni, 2023). Dentro del ciclo del agua ocurren 3 procesos químicos [@nasa2023]:
 
@@ -16,7 +16,7 @@ Precipitación: se genera cuando las gotas que forman las nubes se tornan demasi
 
 Cuando el agua lluvia cae a la superficie, parte de ella se infiltra en el suelo y se convierte en agua subterránea, y otra parte fluye superficialmente, se evapora o se desplaza hacia las corrientes fluviales, a este proceso se le denomina **escorrentía.**
 
-## 2.1 ¿Qué es la escorrentía? {.unnumbered}
+## 2.1 ¿Qué es la escorrentía?
 
 La escorrentía es un proceso físico que hace referencia al flujo de agua procedente de las precipitaciones o deshielo que circula sobre la superficie del suelo. Esto ocurre cuando la intensidad de la lluvia es mayor que la tasa de evaporación e infiltración del suelo o cuando el suelo está saturado [@pnud2022].
 
@@ -31,7 +31,7 @@ Este proceso del ciclo del agua es clave para el ser humano, ya que permite faci
 
 : Ventajas y desventajas de las aguas de escorrentía {#tbl-ventajas-desventajas}
 
-## 2.2 Tipos de escorrentía {.unnumbered}
+## 2.2 Tipos de escorrentía
 
 Existen 3 tipos de escorrentía, superficial, hipodérmica y subterránea (@fig-tipos-escorrentia), a continuación, se define cada una de ellas, con base a los expuesto por Aquae Fundación [-@aquaefundacion2022]:
 

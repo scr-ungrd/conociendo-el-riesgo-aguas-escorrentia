@@ -1,4 +1,4 @@
-# Referencias bibliográficas {.unnumbered}
+# Referencias bibliográficas
 
 ::: {#refs}
 :::

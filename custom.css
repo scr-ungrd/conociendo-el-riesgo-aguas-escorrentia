@@ -1,3 +1,52 @@
+/* --- COLOR DE FUENTE MÁS OSCURO --- */
+:root {
+  --bs-body-color: #1a1a1a;
+}
+
+body {
+  color: #1a1a1a;
+}
+
+/* --- TAMAÑO DE FUENTE +1pt (base 16px -> 17px) --- */
+html {
+  font-size: 17px;
+}
+
+/* --- ESTILOS DE LEYENDAS DE FIGURAS Y TABLAS (estilo tomado de investigaciones-grd-2025) --- */
+figcaption,
+.figure-caption,
+caption {
+  color: #000000 !important;
+  font-weight: normal;
+  font-family: Arial, sans-serif !important;
+  line-height: 1.3 !important;
+}
+
+/* "Figura X:" en negrita dentro de la leyenda */
+.figure-caption .caption-number,
+figcaption .caption-number,
+.quarto-float-fig .quarto-float-caption .caption-number {
+  font-weight: bold !important;
+}
+
+/* Leyendas de tablas - mismo formato que las de figuras */
+.quarto-float-tbl .quarto-float-caption,
+table caption,
+.tbl-cap {
+  text-align: left !important;
+  color: #000000 !important;
+  font-weight: normal;
+  font-family: Arial, sans-serif !important;
+  line-height: 1.3 !important;
+}
+
+/* "Tabla X:" en negrita dentro de la leyenda */
+.quarto-float-tbl .quarto-float-caption .caption-number,
+table caption .caption-number,
+.tbl-cap .caption-number {
+  font-weight: bold !important;
+}
+
 /* --- ESTILOS DE LAS CARDS --- */
 .bg-amarillo {
   background-color: #FAC718 !important;
